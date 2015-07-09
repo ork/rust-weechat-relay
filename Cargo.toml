@@ -1,0 +1,6 @@
+[package]
+name = "weechat-relay"
+version = "0.1.0"
+authors = ["Benoît Taine <ork@olol.eu>"]
+description = "Rust wrapper for the WeeChat relay protocol"
+license = "MIT"
