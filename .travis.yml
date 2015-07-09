@@ -1,1 +1,7 @@
 language: rust
+rust:
+  - 1.0.0
+sudo: false
+script:
+  - cargo build --verbose
+  - cargo test --verbose
