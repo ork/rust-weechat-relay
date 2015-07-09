@@ -1,4 +1,7 @@
 # rust-weechat-relay
+
+[![Build Status](https://travis-ci.org/ork/rust-weechat-relay.svg?branch=master)](https://travis-ci.org/ork/rust-weechat-relay)
+
 Rust wrapper for the WeeChat relay protocol.
 
 
